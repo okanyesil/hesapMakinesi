@@ -1,0 +1,38 @@
+.rakam{
+  height: 50px;
+  width: 49px;
+  padding: 0px;
+  text-align: center;
+  background: red;
+  
+}
+
+.rakam:hover{
+  background: purple;
+}
+.rakam:active{
+  background: blue;
+}
+.yazi{
+  height: 30px;
+  width: 150px;
+}
+table{
+  border-spacing: 0px;
+  margin-left: 14px;
+}
+.endis{
+  padding-left: 20px;
+  padding-top: 10px;
+  width: 200px;
+  height: 300px;
+  background: rgba(255, 0, 0, 0.3);
+border-radius: 25px;
+}
+.cerceve{
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  padding: 20px;
+  background: blue;
+}
