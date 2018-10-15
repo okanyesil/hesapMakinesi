@@ -30,8 +30,9 @@ table{
   padding-top: 10px;
   width:250px;
   height: auto;
-  background:gray;
+  background:rgba(55, 105, 54, 0.589);
 border-radius: 25px;
+border:10px solid rgba(84, 158, 100, 0.363);
 }
 .cerceve{
   width: 150px;
