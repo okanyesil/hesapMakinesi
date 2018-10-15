@@ -3,12 +3,12 @@
   width: 49px;
   padding: 0px;
   text-align: center;
-  background: red;
+  background: purple;
   border-radius: 50%;
 }
 
 .rakam:hover{
-  background: purple;
+  background: pink;
 }
 .rakam:active{
   background: blue;
@@ -40,3 +40,12 @@ border-radius: 25px;
   padding: 20px;
 
 }
+td:nth-child(odd){
+  background: rgba(0, 255, 255, 0.486);
+  border-radius: 15px;
+}
+td:nth-child(even){
+  background: rgba(47, 0, 255, 0.418);
+  border-radius: 15px;
+}
+
