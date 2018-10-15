@@ -4,7 +4,7 @@
   padding: 0px;
   text-align: center;
   background: red;
-  border-radius: 15px;
+  border-radius: 50%;
 }
 
 .rakam:hover{
@@ -28,8 +28,8 @@ table{
 .endis{
   padding-left: 20px;
   padding-top: 10px;
-  width: 250px;
-  height: 300px;
+  width:250px;
+  height: auto;
   background:gray;
 border-radius: 25px;
 }
